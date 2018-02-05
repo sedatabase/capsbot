@@ -18,9 +18,9 @@ wget https://raw.github.com/sdtyldz/capsbot/master/package-lock.json
 sudo apt-get install nodejs -y
 sudo apt-get install nodejs-legacy -y
 sudo apt-get install npm -y
+sudo npm i -g pm2
 npm install steem --save
 npm install --no-optional eris
-sudo npm i -g pm2
 npm install mysql
 ```
 
