@@ -62,4 +62,4 @@ pm2 start caps.js
 
 <hr>
 <b>Tutorial</b>:
-https://utopian.io/utopian-io/@sedatyildiz/steemit-discord-upvote-and-coin-price-bot-v1
+https://steemit.com/utopian-io/@sedatyildiz/steemit-discord-upvote-and-coin-price-bot-v1
