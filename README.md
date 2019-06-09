@@ -9,9 +9,9 @@ sudo rm /var/lib/dpkg/lock
 ```
 
 ```
-wget https://raw.github.com/sdtyldz/capsbot/master/caps.js
-wget https://raw.github.com/sdtyldz/capsbot/master/package.json
-wget https://raw.github.com/sdtyldz/capsbot/master/package-lock.json
+wget https://raw.github.com/sedatyildiznet/capsbot/master/caps.js
+wget https://raw.github.com/sedatyildiznet/capsbot/master/package.json
+wget https://raw.github.com/sedatyildiznet/capsbot/master/package-lock.json
 ```
 
 ```
